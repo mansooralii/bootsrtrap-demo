@@ -1,0 +1,30 @@
+.img1{
+  width: 100%;
+}
+/* #cartdivcon{
+  display: flex;
+   
+} */
+
+.aa{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.about{
+  height:10%;
+  line-height: 1.2;
+  text-align: justify;
+  padding-left: 5%;
+  padding-right: 5%;
+
+ 
+
+}
+.abtimg{
+ 
+  width: 80%;
+  height:30vh;
+  /* margin-left: 5%; */
+}
